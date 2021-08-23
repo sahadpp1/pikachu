@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-re edited by ameer&Hisham
+re edited by sahad
 Licensed under the  GPL-3a.0 License;
 you may not use this file except in compliance with the License.
 
@@ -594,7 +594,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
             var tsup = config.SUPPORT2.split(',');                            
             if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
-        if (config.SUPPORT == '919946432377-1627138839') {     
+        if (config.SUPPORT == '919645529981-1627138839') {     
             var sup = config.SUPPORT.split(',');                            
             if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
         }
