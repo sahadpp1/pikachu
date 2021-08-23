@@ -1,5 +1,5 @@
 /* Copyright (C) 2020 Yusuf Usta.
-re edited by sahad
+re edited by sahad & hisham & ameer
 Licensed under the  GPL-3a.0 License;
 you may not use this file except in compliance with the License.
 
